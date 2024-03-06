@@ -4,7 +4,7 @@
 Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity at University of Udine. Apart from that I love getting involved in Cybersecurity challenges and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/tZ2Xd8LqAnMAAAAd/typing-fast.gif" />
 
 
 **Talking about Personal Stuffs:**
