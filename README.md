@@ -15,8 +15,7 @@ Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity 
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Linkedin is the best way
-- ⚡ Check out my recent [Blogs](https://sebastianomorson.wixsite.com/sebastiano-morson/blog)
-- 📝[Portfolio](https://sebastianomorson.wixsite.com/sebastiano-morson/blank-1)
+- ⚡ Check out my recent [Blogs](https://sebastianomorson.github.io/)
 
 **Languages and Tools:**
 
