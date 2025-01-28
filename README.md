@@ -11,7 +11,7 @@ Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity 
 
 - 🔭 I’m currently following the Master Degree in AI&Cybersecurity at University of Udine and Alpen-Adria Universitat Klagenfurt .
 - 🌱 I’m currently learning web security.
-- 🤖 Check out my [TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1035257) profile!
+- 🤖 Check out my [TryHackMe](https://tryhackme.com/r/p/justamonkey) profile!
 - 🐍 Member of MadrHacks, University of Udine's cybersecurity team
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastiano-morson-34a825221/) is the best way
 - ⚡ Check out my recent [Blogs](https://sebastianomorson.github.io/)
