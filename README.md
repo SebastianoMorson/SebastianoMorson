@@ -16,8 +16,7 @@ Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Linkedin is the best way
 - ⚡ Check out my recent [Blogs](https://sebastianomorson.github.io/)
-- 🤖 Check out also my TryHackMe profile!
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1035257" style='border:none;'></iframe>
+- 🤖 Check out also my [TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1035257) profile!
 
 **Languages and Tools:**
 
