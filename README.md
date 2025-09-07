@@ -1,7 +1,7 @@
 ## Hello World 👋 It's [Sebastiano Morson aka JustAMonkey!](https://sebastianomorson.wixsite.com/sebastiano-morson/)
 
 
-Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity at University of Udine. Apart from that I love getting involved in Cybersecurity challenges and Problem Solving.❤✌
+Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity at University of Udine. Apart from that I love challenges and problem solving.❤✌
 
 
 <img align="center" alt="GIF" src="https://media1.tenor.com/m/tZ2Xd8LqAnMAAAAd/typing-fast.gif" />
@@ -10,7 +10,7 @@ Hi,I'm Sebastiano Morson aka JustAMonkey🙌, a Student in AI and Cybersecurity 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently following the Master Degree in AI&Cybersecurity at University of Udine and Alpen-Adria Universitat Klagenfurt .
-- 🌱 I’m currently learning web security.
+- 🌱 I’m currently learning AGI systems.
 - 🤖 Check out my [TryHackMe](https://tryhackme.com/r/p/justamonkey) profile!
 - 🐍 Member of MadrHacks, University of Udine's cybersecurity team
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastiano-morson-34a825221/) is the best way
