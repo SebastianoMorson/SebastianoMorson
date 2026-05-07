@@ -10,7 +10,7 @@ Hi, I'm Sebastiano Morson aka JustAMonkey🙌, a PhD Student at Technical Univer
 **Talking about Personal Stuffs:**
 
 - 🔭 I completed the Master Degree in AI&Cybersecurity at University of Udine and Alpen-Adria Universitat Klagenfurt.
-- 🌱 I’m currently learning AGI systems.
+- 🌱 I can't wait to work on AGI systems.
 - 🤖 Check out my [TryHackMe](https://tryhackme.com/r/p/justamonkey) profile!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sebastiano-morson-34a825221/) is the best way
 - ⚡ Check out my recent [Blogs](https://sebastianomorson.github.io/)
